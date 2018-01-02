@@ -12,5 +12,8 @@
     "misspell"
   ],
   "LineLength": 240,
-  "Deadline": "300s"
+  "Deadline": "300s",
+  "Aggregate": true,
+  "WarnUnmatchedNolint": true,
+  "Exclude": ["comment or be unexported", "comment on exported"]
 }

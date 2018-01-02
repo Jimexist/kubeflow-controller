@@ -1,0 +1,16 @@
+{
+  "Vendor": true,
+  "DisableAll": true,
+  "Enable": [
+    "vet",
+    "gotype",
+    "safesql",
+    "goconst",
+    "goimports",
+    "gas",
+    "lll",
+    "misspell"
+  ],
+  "LineLength": 240,
+  "Deadline": "300s"
+}
